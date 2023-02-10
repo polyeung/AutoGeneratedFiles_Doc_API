@@ -1,0 +1,9 @@
+2.9 try google doc project
+clientID: 
+808988139908-umt2s1gsc1ntrml0j89vvtj2jvii6qmu.apps.googleusercontent.com
+
+Client Secret:
+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
+
+key=API_Keys
+AIzaSyCEJI8skglxKphl9_Xn0GaJGcMMGFd_eMA
